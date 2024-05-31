@@ -14,7 +14,7 @@
 #### 5		7.0312500	7.1875000	7.1093750	0.3933594	-0.1515625	0.1233398	0.1233398
 #### 6		7.1093750	7.1875000	7.1484375	0.1233398	-0.1515625	-0.0135010	0.0135010
 # >> disp(['Root is: ' num2str(root)]);
-## Root is: 7.1484
+#### Root is: 7.1484
 ## >> disp(['Found in ' num2str(iterations) ' iterations.']);
-# Found in 6 iterations.
+#### Found in 6 iterations.
 # >> 
